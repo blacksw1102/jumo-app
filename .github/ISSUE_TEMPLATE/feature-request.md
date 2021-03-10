@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: 프로젝트에 관한 아이디어를 제안할 때 사용합니다.
-title: "[Request]"
-labels: ''
+title: "[Feature]"
+labels: enhancement
 assignees: ''
 
 ---
