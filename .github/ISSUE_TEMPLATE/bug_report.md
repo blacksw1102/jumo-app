@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 버그에 관한 이슈를 작성할 때 사용합니다.
 title: "[Bug] "
 labels: bug
 assignees: ''
